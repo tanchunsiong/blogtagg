@@ -1,0 +1,22 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Azure
+ServiceConfiguration.Local.cscfg
+ServiceConfiguration.Cloud.cscfg
+
+# Backup folders
+Backup/
+_UpgradeReport_Files/
+UpgradeLog*.XML
+
+# NuGet
+packages/
